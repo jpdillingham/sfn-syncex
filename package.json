@@ -1,0 +1,12 @@
+{
+  "name": "sfn-syncex",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/jpdillingham/sfn-syncex",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.995.0",
+    "lodash": "^4.17.21",
+    "yargs": "^17.2.1"
+  }
+}
